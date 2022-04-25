@@ -1,0 +1,4 @@
+x="192"
+print(complex(x))
+print(float(x))
+print(str(x))
