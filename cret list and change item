@@ -1,15 +1,15 @@
 p = ["apple", "banana", "cherry","tunak","tun","tuna"]
 
-p[2]="hamah"
+p[2]="hamah"      "chane item"
 p[1]="hamah"
 p[1-1]='hamah'
 p[3]="hamah"
 p[4]="hamah"
 p[5]="hamah"
 print(p)
-p.remove("hamah")
+p.remove("hamah")   "remove item"
 print(p)
 p[1-1]="flower"
 print(p)
-p.append("kitty")
+p.append("kitty")   "additem"
 print(p)
