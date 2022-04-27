@@ -13,3 +13,4 @@ p[1-1]="flower"
 print(p)
 p.append("kitty")   "additem"
 print(p)
+print(len(p))       "length of list"
