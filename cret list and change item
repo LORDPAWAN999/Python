@@ -7,4 +7,11 @@ p[3]="hamah"
 p[4]="hamah"
 p[5]="hamah"
 print(p)
+'''<......add item....>'''
+ p= ["apple", "banana", "cherry"]
+
+p.append("orange")
+p.append("hamah")
+print(p)
+
 
